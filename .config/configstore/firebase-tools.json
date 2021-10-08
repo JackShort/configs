@@ -1,0 +1,44 @@
+{
+	"analytics-uuid": "8f981a7b-9288-4042-a15f-e73ef217c701",
+	"motd": {
+		"cloudBuildErrorAfter": 1594252800000,
+		"cloudBuildWarnAfter": 1590019200000,
+		"defaultNode10After": 1594252800000,
+		"minVersion": "3.0.5",
+		"node8DeploysDisabledAfter": 1613390400000,
+		"node8RuntimeDisabledAfter": 1615809600000,
+		"node8WarnAfter": 1600128000000,
+		"fetched": 1632970634140
+	},
+	"usage": true,
+	"user": {
+		"iss": "accounts.google.com",
+		"azp": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"aud": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"sub": "103942102114447422679",
+		"email": "john.short.tj@gmail.com",
+		"email_verified": true,
+		"at_hash": "d7DU6klNhFkMgeBJHabbxQ",
+		"iat": 1632883314,
+		"exp": 1632886914
+	},
+	"tokens": {
+		"expires_at": 1632975682410,
+		"refresh_token": "1//0ddDwWbRlQ3F_CgYIARAAGA0SNwF-L9Irk7VIOu-HaEHbOmLXiTdIcMsfMy364Uw_ee9O0CRCVS1mT-yNlOYr1yuN2ySjF0ZKqHA",
+		"scopes": [
+			"email",
+			"https://www.googleapis.com/auth/cloud-platform",
+			"https://www.googleapis.com/auth/cloudplatformprojects.readonly",
+			"https://www.googleapis.com/auth/firebase",
+			"openid"
+		],
+		"access_token": "ya29.a0ARrdaM-jAvcFI4qabuu8egAiIL_z5P4cOZHjzIsdZ4l4agZPM1Uizg9eO5Obw8JjAlqxKEVE_y7iEKrdQwNHZCp-4RD8n39ZpPcnI_dsOeEaVzT_oqyc0B2oUA6JWfC3459ofqw8TqPe-1egH_GhROU6ae38VEQx3GPqJA",
+		"expires_in": 3599,
+		"scope": "https://www.googleapis.com/auth/cloudplatformprojects.readonly https://www.googleapis.com/auth/firebase openid https://www.googleapis.com/auth/cloud-platform https://www.googleapis.com/auth/userinfo.email",
+		"token_type": "Bearer",
+		"id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjhkOTI5YzYzZmYxMDgyYmJiOGM5OWY5OTRmYTNmZjRhZGFkYTJkMTEiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTAzOTQyMTAyMTE0NDQ3NDIyNjc5IiwiZW1haWwiOiJqb2huLnNob3J0LnRqQGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhdF9oYXNoIjoiNGwyakltQ3huNllQYnFyQ29fb0stZyIsImlhdCI6MTYzMjk3MjA4MywiZXhwIjoxNjMyOTc1NjgzfQ.e9u5Ye0rFLYfnoo83xwTNQy9CHVBpiJlfm-w_dCcRe_JuMwJ-zXTfy_ugXHwTePhhRsdwKNqIjhfOlX2Cvb6hi2VvbMIjk8nDmTRt184YmWZNqPzPhwhZ0z5nzJ-dd4d1iRQND02n_r5up98Sj9GBYs35FCe0zU8zJx8H5oJwZ5Q_yyUstTvsaBtKoagwKKYAaUgibuVpx6ahIKcylH5q6JyPdQvjWjXIeVmxnV8C5vt-WVKpPHGMZvkiCRx6J8aYDPlVVmnZGcLwqdGU0ctRRubNWINaY3_208wks1j_4C2xo77Wzyqhy9yM_7t6Wv1vWBKta2AKduoAaE6PA_EFQ"
+	},
+	"activeProjects": {
+		"/Users/jackshort/Documents/Tachyon-web/frontend/firebase": "tachyon-cd751"
+	}
+}
